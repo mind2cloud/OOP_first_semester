@@ -1,0 +1,10 @@
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/5/5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/5/5/bin/Debug/5.exe.mdb
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/5/5/bin/Debug/5.exe
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/5/5/obj/x86/Debug/5.exe
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/5/5/obj/x86/Debug/5.exe.mdb
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/5/5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/5/5/bin/Debug/5.exe.mdb
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/5/5/bin/Debug/5.exe
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/5/5/obj/x86/Debug/5.exe
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/5/5/obj/x86/Debug/5.exe.mdb

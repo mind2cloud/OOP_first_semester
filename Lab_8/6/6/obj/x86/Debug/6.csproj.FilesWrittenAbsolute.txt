@@ -1,0 +1,10 @@
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/6/6/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/6/6/bin/Debug/6.exe.mdb
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/6/6/bin/Debug/6.exe
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/6/6/obj/x86/Debug/6.exe
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/6/6/obj/x86/Debug/6.exe.mdb
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/6/6/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/6/6/bin/Debug/6.exe.mdb
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/6/6/bin/Debug/6.exe
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/6/6/obj/x86/Debug/6.exe
+/Users/RomanK/Desktop/Рома К/Visual Studio for Mac/Лабораторная работа №8/6/6/obj/x86/Debug/6.exe.mdb

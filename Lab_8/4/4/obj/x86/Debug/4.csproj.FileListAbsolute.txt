@@ -1,0 +1,4 @@
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/Лабораторная работа №8/4/4/bin/Debug/4.exe
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/Лабораторная работа №8/4/4/bin/Debug/4.exe.mdb
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/Лабораторная работа №8/4/4/obj/x86/Debug/4.exe
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/Лабораторная работа №8/4/4/obj/x86/Debug/4.exe.mdb
