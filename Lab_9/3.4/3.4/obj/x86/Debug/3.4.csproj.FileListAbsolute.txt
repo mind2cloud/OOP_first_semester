@@ -1,0 +1,5 @@
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/ I Семестр/Лабораторная работа №9/3.4/3.4/bin/Debug/3.4.exe
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/ I Семестр/Лабораторная работа №9/3.4/3.4/bin/Debug/3.4.pdb
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/ I Семестр/Лабораторная работа №9/3.4/3.4/obj/x86/Debug/3.4.csproj.CoreCompileInputs.cache
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/ I Семестр/Лабораторная работа №9/3.4/3.4/obj/x86/Debug/3.4.exe
+/Users/RomanK/Desktop/Рома К/3 Visual Studio for Mac/ I Семестр/Лабораторная работа №9/3.4/3.4/obj/x86/Debug/3.4.pdb

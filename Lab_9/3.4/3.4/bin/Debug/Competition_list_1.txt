@@ -1,0 +1,7 @@
+Ivanova 130,5
+Petrova 104,7
+Sidorova 90,0
+Mikhaiova 101,5
+Kirilova 110,9
+Yakovlev 121,5
+Demidov 119,9

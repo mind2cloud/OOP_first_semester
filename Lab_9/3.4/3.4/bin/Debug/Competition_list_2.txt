@@ -1,0 +1,7 @@
+Shipulin 140,5
+Lavrov 114,1
+Kalinichenko 155,2
+Bakanov 13,9
+Nevsky 122,3
+Lanskih 135,0
+Durov 130,1
